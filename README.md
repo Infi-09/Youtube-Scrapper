@@ -2,9 +2,9 @@
 #### Download YouTube video description and video comments without using the YouTube API.
 
 ## Setup
-(1) You do not need to any API Credentials to use this.
+  * You do not need to any API Credentials to use this.
 
-(2) The final output will be stored in a JSON file.
+  * The final output will be stored in a JSON file.
 
 ## Clone and use the Python script
 ```
